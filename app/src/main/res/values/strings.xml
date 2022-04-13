@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Final Project</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Courses Notes Project</string>
+    <string name="nav_header_subtitle">Implemented by Rawan Ashraf</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="menu_courses">Courses</string>
+    <string name="menu_notes">Notes</string>
+    <string name="about_us">About Us</string>
+    <string name="new_course">New Course</string>
+    <string name="new_note">New Note</string>
+    <string name="course_name">Course Name</string>
+    <string name="description">Description</string>
+    <string name="save">Save</string>
+    <string name="note_title">Note Title</string>
+    <string name="content">Content</string>
+    <string name="no_notes_alert">There is no notes! Add the first one.</string>
+    <string name="no_courses_alert">There is no courses! Add the first one.</string>
+    <string name="course_id" translatable="false">courseId</string>
+    <string name="is_edit" translatable="false">isEdit</string>
+    <string name="failed_to_delete_course">Failed to delete course!</string>
+    <string name="failed_to_delete_note">Failed to delete note!</string>
+    <string name="failed_to_update_course">Failed to update the current course!</string>
+    <string name="failed_to_update_note">Failed to update the current note!</string>
+    <string name="failed_to_add_course">Failed to add the current course!</string>
+    <string name="failed_to_add_note">Failed to add the current note!</string>
+    <string name="delete_confirmation">Delete Confirmation</string>
+    <string name="delete_course_confirmation">Are you sure to delete the selected course?</string>
+    <string name="delete_note_confirmation">Are you sure to delete the selected note?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="note_id">noteId</string>
+    <string name="all_courses">All Courses</string>
+    <string name="course_notes">Course Notes</string>
+    <string name="all_notes">All Notes</string>
+    <string name="update_note">Update Note</string>
+    <string name="update_course">Update Course</string>
+    <string name="developed_by">Developed by Rawan Ashraf</string>
+</resources>
